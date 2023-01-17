@@ -5,6 +5,7 @@ void main()
     char operator;
     scanf("%c",&operator);
     scanf("%d %d", &a, &b);
+    
     switch (operator)
     {
     case '+':
